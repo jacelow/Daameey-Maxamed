@@ -24,9 +24,7 @@
     22. Eedo Safiyo Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 # Darajada Labaad
-
 ## Maxamuud Daameey
-
 ### Wehliye Gaaboow
 
     1.  C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -58,7 +56,6 @@
     5.  C/casiis Maxamed Gacal Casir   
     
 ## Ismaan Daameey
-
 ### Muuse Ismaan
 
     1.  Cabdi Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
@@ -72,8 +69,27 @@
     
 # Darajada Sidaxaad
 
-     1.  C/rashiid Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
-     2.  Cismaan Cumar Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-
+## Maxamuud Daameey
+### Wehliye Gaaboow
+    1.  C/llaahi Cimaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Maxamed C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Cismaan Cumar Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+### Casir Gaaboow
+    1.  C/rashiid Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
+## Ismaan Daameey
+### Muuse Ismaan
+    1.
+### Maalin Ismaan
+    1.
 # Darajada Afaraad
 
+## Maxamuud Daameey
+### Wehliye Gaaboow
+    1.  
+### Casir Gaaboow
+    1.  
+## Ismaan Daameey
+### Muuse Ismaan
+    1.
+### Maalin Ismaan
+    1.
