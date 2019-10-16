@@ -70,13 +70,13 @@
     9.  Wehliye Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     10. Axmed Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     11. C/casiis Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-####
+    
+#### Caddow Wehliye
     17. Maxamed Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     18. C/raxmaan Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     19. C/llaahi Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 ### Casir Gaaboow
-
     1.  Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     2.  Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     3.  Maxamed Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
@@ -90,26 +90,23 @@
     
 ## Ismaan Daameey
 ### Muuse Ismaan
-
     1.  Cabdi Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
     2.  Naciima Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
     3.  Shukri Cali Cumar Jimcaale Muuse Ismaan Axmed Maxamed
     
 ### Maalin Ismaan
-
-    1.  C/kariin Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
-    2.  Ruqiyo Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed 
+    1.  Daa'uud Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
+    2.  C/kariin Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
+    3.  Ruqiyo Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed 
     
 # Darajada Sidaxaad
 ## Maxamuud Daameey
 ### Wehliye Gaaboow
-
     1.  C/llaahi Cimaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  Maxamed C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Cismaan Cumar Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 ### Casir Gaaboow
-
     1.  C/rashiid Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     2.  Hani 
     3.  Naciima
@@ -117,17 +114,22 @@
 ## Ismaan Daameey
 ### Muuse Ismaan
     1.
+    
 ### Maalin Ismaan
     1.
+    
 # Darajada Afaraad
 
 ## Maxamuud Daameey
 ### Wehliye Gaaboow
     1.  
+    
 ### Casir Gaaboow
     1.  
+    
 ## Ismaan Daameey
 ### Muuse Ismaan
     1.
+    
 ### Maalin Ismaan
     1.
