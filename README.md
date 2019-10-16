@@ -1,6 +1,7 @@
 # Daameey Maxamed
 Ku Soo Dhawaada Reer Daameey Maxamed Booqashadaada Waa Noo Muhiim Ehelkeyga:-
 # Darajada Koowaad
+
     1. Adeer C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  Adeer Cisma an Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Adeer Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -21,7 +22,9 @@ Ku Soo Dhawaada Reer Daameey Maxamed Booqashadaada Waa Noo Muhiim Ehelkeyga:-
     18. Eedo Qaali Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed 
     19. Eedo Saynab Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     20. Eedo Safiyo Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
- # Darajada Labaad
+    
+# Darajada Labaad
+
     1. C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     2. Daa'uud Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     3. Cismaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -30,5 +33,7 @@ Ku Soo Dhawaada Reer Daameey Maxamed Booqashadaada Waa Noo Muhiim Ehelkeyga:-
     6. C/raxmaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     7. Maxamed Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     8. Axmed Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
 # Darajada Sidaxaad
+
 # Darajada Afaraad
