@@ -23,15 +23,19 @@
     
 # Darajada Labaad
 
-    1. C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    2. Daa'uud Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    3. Cismaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    4. Saciid Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    5. Idiris Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    6. C/raxmaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    7. Maxamed Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    8. Axmed Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    1.  C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Daa'uud Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Cismaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  Saciid Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  Idiris Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  C/raxmaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Maxamed Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    8.  Axmed Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    9.  Daahir Xuseen Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    10. Cabdi Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
+   
     
 # Darajada Sidaxaad
 
 # Darajada Afaraad
+
