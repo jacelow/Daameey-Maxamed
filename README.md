@@ -2,12 +2,14 @@
 ## Maxamuud Daameey
 ### Wehliye Gaaboow 
 #### Family Maxamuud Wehliye
-    1.  Eedo Shamso Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    2.  Eedo Xaliimo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    3.  Eedo Safiyo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    4.  Eedo Ubax Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    5.  Eedo Mulki Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    6.  Eedo Saynab Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    1.  Adeer Cabdulle Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Adeer 
+    3.  Eedo Shamso Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  Eedo Xaliimo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  Eedo Safiyo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  Eedo Ubax Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Eedo Mulki Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    8.  Eedo Saynab Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
 
 #### Family Cumar Wehliye
     1.  Adeer Cisma an Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -38,6 +40,7 @@
     3.  Adeer Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Family Jimcaale Wehliye
+    1.  Eedo Faadumo Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 ### Casir Gaaboow
 #### Family Gacal Casir
