@@ -37,6 +37,8 @@
     2.  Adeer Maxamuud Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Adeer Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     
+#### Family Jimcaale Wehliye
+    
 ### Casir Gaaboow
 #### Family Gacal Casir
     1.  Adeer Maxamed Gacal Casir Gaaboow Maxamuud Axmed Maxamed
@@ -74,9 +76,18 @@
     11. C/casiis Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Caddow Wehliye
-    17. Maxamed Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
-    18. C/raxmaan Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
-    19. C/llaahi Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
+    1.  Maxamed Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  C/raxmaan Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  C/llaahi Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+#### Family Jimcaale Wehliye
+    1.  C/kariim Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Maxamed Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Jaabir Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  ///// Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  ///// Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  Sacdiyo Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Nasteexo Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 ### Casir Gaaboow
     1.  Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
@@ -104,9 +115,23 @@
 # Darajada Sidaxaad
 ## Maxamuud Daameey
 ### Wehliye Gaaboow
-    1.  C/llaahi Cimaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    2.  Maxamed C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    3.  Cismaan Cumar Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+#### Maxamuud Wehliye
+    1.  Maxamed C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  C/qaadir C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Cabdalle C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  Xamza C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  C/llaahi Cimaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  Ridwaan Cimaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Zakariye Cimaan Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+#### Cumar Wehliye
+    1.  Cismaan Cumar Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  C/raxmaan Wehliye Cumar Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+#### Xasan Wehliye
+#### Dhiblaawe Wehliye
+#### Maxamuud Wehliye
+   
+  
     
 ### Casir Gaaboow
     1.  C/rashiid Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
