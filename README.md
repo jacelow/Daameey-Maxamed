@@ -36,14 +36,16 @@
     1.  Adeer Maxamed Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  Adeer Maxamuud Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Adeer Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
- 
+    
 ### Casir Gaaboow
 #### Family Gacal Casir
     1.  Adeer Maxamed Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     2.  Adeer 
+    
 ## Ismaan Daameey 
 ### Muuse Ismaan
     1.
+    
 ### Maalin Ismaan
     1.
    
