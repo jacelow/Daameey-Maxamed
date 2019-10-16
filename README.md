@@ -10,6 +10,7 @@
     6.  Eedo Ubax Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     7.  Eedo Mulki Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     8.  Eedo Saynab Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    9.  Eedo Faadumo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed 
 
 #### Family Cumar Wehliye
     1.  Adeer Cisma an Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
