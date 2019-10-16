@@ -23,9 +23,9 @@
     
 # Darajada Labaad
 
-# Maxamuud Daameey
+## Maxamuud Daameey
 
-# Wehliye Gaaboow
+### Wehliye Gaaboow
 
     1.  C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  Daa'uud Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -47,7 +47,7 @@
     18. C/raxmaan Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     19. C/llaahi Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     
-# Casir Gaaboow
+### Casir Gaaboow
 
     1.  Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     2.  Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
@@ -57,13 +57,13 @@
     
 ## Ismaan Daameey
 
-# Muuse Ismaan
+### Muuse Ismaan
 
     1.  Cabdi Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
     2.  Naciima Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
     3.  Shukri Cali Cumar Jimcaale Muuse Ismaan Axmed Maxamed
     
-# Maalin Ismaan
+### Maalin Ismaan
 
     1.  C/kariin Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
     2.  Ruqiyo Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed 
