@@ -14,9 +14,10 @@
     2.  Adeer Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Adeer Cali Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     4.  Adeer Cabdullaahi Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    5.  Eedo Aamino Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    6.  Eedo Zahro Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    7.  Eedo Safiyo Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  Adeer Maxamuud Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed   
+    6.  Eedo Aamino Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Eedo Zahro Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    8.  Eedo Safiyo Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Family Xasan Wehliye
     1.  Adeer C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -32,13 +33,15 @@
     3.  Eedo Shariifo Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Family Caddow Wehliye
-    3.  Adeer Cali Caddow Wehliye  Gaaboow Maxamuud Axmed Maxamed
-    5.  Adeer Maxamuud Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed    
-    
+    1.  Adeer Maxamed Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Adeer Maxamuud Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Adeer Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
+ 
 ### Casir Gaaboow
 #### Family Gacal Casir
-    1.  
-## Ismaan Daameey
+    1.  Adeer Maxamed Gacal Casir Gaaboow Maxamuud Axmed Maxamed
+    2.  Adeer 
+## Ismaan Daameey 
 ### Muuse Ismaan
     1.
 ### Maalin Ismaan
