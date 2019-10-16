@@ -129,6 +129,27 @@
     6.  Sacdiyo Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
     7.  Nasteexo Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
     
+#### Xasan Wehliye 
+    1.  Axmed Maxamed Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Maxamed C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  C/shakuur C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  Xasan C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  Maxamed Calas Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  Farxiyo Maxamed Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Ruuneey Maxamed Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    8.  Sacdiyo Maxamed Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    9.  Amal Calas Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    10. Sucaado C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    11. Xaawo C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    12. Xafso C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    13. Shukri C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+#### Dhiblaawe Wehliye
+    1.  Maxamed C/casiis Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Nuur C/casiis Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Khaalid C/casiis Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4. C/llaahi C/casiis Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
 ### Casir Gaaboow
     1.  Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     2.  Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
@@ -200,10 +221,16 @@
     5.  ////// Axmed  Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Xasan Wehliye
+    1. 
+    
 #### Dhiblaawe Wehliye
-#### Maxamuud Wehliye
-   
-  
+    1. 
+    
+#### Caddow Wehliye
+    1.
+    
+#### Jimcaale Wehliye
+    1.
     
 ### Casir Gaaboow
     1.  C/rashiid Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
@@ -221,7 +248,23 @@
 
 ## Maxamuud Daameey
 ### Wehliye Gaaboow
+#### Maxamuud Wehliye
     1.  
+    
+#### Cumar Wehliye
+    1.
+    
+#### Xasan Wehliye
+    1.
+    
+#### Dhiblaawe Wehliye
+    1.
+    
+#### Caddow Wehliye
+    1.
+    
+#### Jimcaale Wehliye
+    1. 
     
 ### Casir Gaaboow
     1.  
