@@ -35,8 +35,13 @@
     
 #### Family Dhiblaabe Wehliye
     1.  Adeer C/casiis Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
-    2.  Eedo  Xaali    Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
-    3.  Eedo  Shariifo Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Adeer C/llaahi Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Eedo  Xaali    Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  Eedo  Shariifo Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  Eedo  Ruqiyo   Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  Eedo  Maryan   Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Eedo  Xaawo    Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    8.  Eedo  Binti    Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Family Caddow Wehliye
     1.  Adeer Maxamed  Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
