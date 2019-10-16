@@ -23,9 +23,9 @@
     
 # Darajada Labaad
 
- # Maxamuud Daameey
+# Maxamuud Daameey
 
-  # Wehliye Gaaboow
+# Wehliye Gaaboow
 
     1.  C/salaan Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  Daa'uud Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
