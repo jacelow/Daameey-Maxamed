@@ -108,8 +108,8 @@
     
 ### Casir Gaaboow
     1.  C/rashiid Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
-    2.  Hani 
-    3.  Naciima
+    2.  Hani Ibraahim Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
+    3.  Naciima Cali Dubad Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     
 ## Ismaan Daameey
 ### Muuse Ismaan
