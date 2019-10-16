@@ -1,5 +1,3 @@
-# Daameey Maxamed
-Ku Soo Dhawaada Reer Daameey Maxamed Booqashadaada Waa Noo Muhiim Ehelkeyga:-
 # Darajada Koowaad
 
     1. Adeer C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
