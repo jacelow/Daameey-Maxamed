@@ -174,12 +174,17 @@
     
 ## Ismaan Daameey
 ### Muuse Ismaan
-#### Cumar Cali
+#### Maxamed Cumar
     1.  Axmed Maxamed Cumar Jimcaale Muuse Ismaan Axmed Maxamed
-    2.  Maxamed Cali Cumar Jimcaale Muuse Ismaan Axmed Maxamed
+    
+#### Cali Cumar    
+    1.  Maxamed Cali Cumar Jimcaale Muuse Ismaan Axmed Maxamed
+    2.  Shukri Cali Cumar Jimcaale Muuse Ismaan Axmed Maxamed
+    
+#### Coloow Cumar  
     1.  Cabdi Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
     2.  Naciima Coloow Cumar Jimcaale Muuse Ismaan Axmed Maxamed
-    3.  Shukri Cali Cumar Jimcaale Muuse Ismaan Axmed Maxamed
+   
     
 ### Maalin Ismaan
     1.  Daa'uud Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
