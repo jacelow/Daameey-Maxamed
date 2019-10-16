@@ -222,11 +222,11 @@
     15. Xafso     Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     16. C/salaan  Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     17. Abuukar   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    18. Maxamed   Daauud   Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    19. ///////   Daauud   Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    20. ///////   Daauud   Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    21. ///////   Daauud   Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    22. ///////   Daauud   Maxamed Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    18. Maxamed   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    19. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    20. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    21. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    22. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Cumar Wehliye
     1.  Cismaan      Cumar   Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
