@@ -1,25 +1,27 @@
 # Darajada Koowaad
 
-    1. Adeer C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    1.  Adeer C/llaahi Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  Adeer Cisma an Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Adeer Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     4.  Adeer Cali Caddow Wehliye  Gaaboow Maxamuud Axmed Maxamed
     5.  Adeer Maxamuud Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     6.  Adeer Cali Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    7.  Adeer Cabdullaahi Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    8.  Eedo Xaali Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
-    9.  Eedo Shariifo Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
-    10. Eedo Shamso Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    11. Eedo Xaliimo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    12. Eedo Safiyo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    13. Eedo Aamino Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    14. Eedo Ubax Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    15. Eedo Mulki Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    16. Eedo Saynab Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
-    17. Eedo Zahro Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    18. Eedo Qaali Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed 
-    19. Eedo Saynab Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    20. Eedo Safiyo Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Adeer Maxamed Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    8.  Adeer Cabdullaahi Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    9.  Adeer C/casiis Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    10. Eedo Xaali Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    11. Eedo Shariifo Dhiblaawe Wehliye Gaaboow Maxamuud Axmed Maxamed
+    12. Eedo Shamso Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    13. Eedo Xaliimo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    14. Eedo Safiyo Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    15. Eedo Aamino Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    16. Eedo Ubax Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    17. Eedo Mulki Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    18. Eedo Saynab Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed
+    19. Eedo Zahro Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    20. Eedo Qaali Xasan Wehliye Gaaboow Maxamuud Axmed Maxamed 
+    21. Eedo Saynab Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    22. Eedo Safiyo Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 # Darajada Labaad
 
