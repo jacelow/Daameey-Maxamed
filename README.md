@@ -80,7 +80,7 @@
     2.  C/raxmaan Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  C/llaahi Cali Caddow Wehliye Gaaboow Maxamuud Axmed Maxamed
     
-#### Family Jimcaale Wehliye
+#### Jimcaale Wehliye
     1.  C/kariim Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  Maxamed Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Jaabir Axmed Jimcaale Wehliye Gaaboow Maxamuud Axmed Maxamed
