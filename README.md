@@ -223,14 +223,16 @@
     12. Zeynab    Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     13. Khadiijo  Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     14. Caasho    Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    15. Xafso     Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    15. Suleymaan Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     16. C/salaan  Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     17. Abuukar   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     18. Maxamed   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    19. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    20. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    21. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    22. ///////   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    19. Salma     Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed 
+    20. Salwa     Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    21. Sacdiya   Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    22. Xafso     Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+     
     
 #### Cumar Wehliye
     1.  Cismaan      Cumar   Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -261,7 +263,10 @@
     1.
     
 ### Maalin Ismaan
-    1.
+    1.  Anwar Daa'uud  Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
+    2.  Anas  Daa'uud  Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
+    3.  Ayuub Daa'uud  Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
+    4.  Asfa  Daa'uud  Maxamuud Jimcaale Yabaroow Maalin Ismaan Axmed Maxamed
     
 # Darajada Afaraad
 
