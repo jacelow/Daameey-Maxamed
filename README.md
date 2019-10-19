@@ -85,6 +85,7 @@
     15. Aamino    Maxamed   Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     16. Fartuun   Maxamed   Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     17. Fartuun   Ibraahim  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    18. Fartuun   Xuseen    Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     18. Intisaar  Xuseen    Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     19. Caasho    Xuseen    Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     20. Asma      Xuseen    Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
