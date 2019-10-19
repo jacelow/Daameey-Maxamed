@@ -186,6 +186,9 @@
     18. Naciima   Daahir   Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     19. Caaliyo   Maxamed  Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     20. Saabariin Maxamed  Gacal Casir Gaaboow Maxamuud Axmed Maxamed
+    21. Luul      Daahir   Gacal Casir Gaaboow Maxamuud Axmed Maxamed
+    22. Zahro     Daahir   Gacal Casir Gaaboow Maxamuud Axmed Maxamed
+    23. Sumayo    Daahir   Gacal Casir Gaaboow Maxamuud Axmed Maxamed
     
 ## Ismaan Daameey
 ### Muuse Ismaan
