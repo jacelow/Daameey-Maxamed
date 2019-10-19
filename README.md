@@ -213,6 +213,9 @@
     2.  C/qaadir  C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Cabdalle  C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     4.  Xamza     C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  Xafso     C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  Xaliimo   C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Suleekha  C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     5.  C/llaahi  Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     6.  Ridwaan   Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     7.  Zakariye  Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
