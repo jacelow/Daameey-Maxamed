@@ -262,7 +262,9 @@
 # Darajada Sidaxaad
 ## Maxamuud Daameey
 ### Wehliye Gaaboow
-#### Maxamuud Wehliye
+#### Baadiyow Wehliye
+##### Shuuti Baadiyow
+###### C/salaan Shuuti
     1.  Maxamed   C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     2.  C/qaadir  C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     3.  Cabdalle  C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -270,12 +272,18 @@
     5.  Xafso     C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     6.  Xaliimo   C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     7.  Suleekha  C/salaan Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    5.  C/llaahi  Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    6.  Ridwaan   Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    7.  Zakariye  Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    8.  Juweeriyo Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    9.  Faadumo   Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
-    10. Iqra      Idiris   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+###### Cismaan Ibraahim
+    1.  C/llaahi  Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Ridwaan   Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Zakariye  Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  Juweeriyo Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  Faadumo   Cimaan   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+###### Idiris Ibraahim
+    1.  Iqra      Idiris   Ibraahim Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+###### Daauud Shuuti
     11. Sowda     Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     12. Zeynab    Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
     13. Khadiijo  Daauud   Maxamed  Maxamuud Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -292,13 +300,22 @@
      
     
 #### Cumar Wehliye
+##### Cismaan Cumar
+###### Cumar Cismaan
+    1.  Edan         Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.   Isaaq        Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+###### Abuur Cumar
+###### Cumar Abuukar
     1.  Cismaan      Cumar   Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    2.  C/raxmaan    Wehliye Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    3.  Safiyo       Axmed   Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    4.  Sihaam       Wehliye Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+###### Wehliye Abuukar  
+    1.  C/raxmaan    Wehliye Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Sihaam       Wehliye Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    
+###### Axmed Abuukar
+    1.  Safiyo       Axmed   Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     5.  //////       Axmed   Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    6.  Edan         Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    7.  Isaaq        Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Xasan Wehliye
     1. 
