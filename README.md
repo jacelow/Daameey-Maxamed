@@ -111,10 +111,10 @@
     16. Caaliya  Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     17. Yaasmiin Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     18. Ifraax   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    19. //////   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    20. //////   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    21. //////   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    22. //////   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    19. Nasra    Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    20. Naciima  Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    21. Duriya   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    22. Iimaan   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     16. ///////  Maxamuud Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Caddow Wehliye
@@ -242,11 +242,13 @@
      
     
 #### Cumar Wehliye
-    1.  Cismaan      Cumar   Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    2.  C/raxmaan    Wehliye Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    3.  Safiyo       Axmed   Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    4.  Sihaam       Wehliye Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    5.  //////       Axmed   Abuukar Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    1.  Cismaan      Cumar   Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  C/raxmaan    Wehliye Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    3.  Safiyo       Axmed   Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    4.  Sihaam       Wehliye Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    5.  //////       Axmed   Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    6.  Edan         Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    7.  Isaaq        Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 #### Xasan Wehliye
     1. 
