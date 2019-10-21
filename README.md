@@ -130,7 +130,7 @@
     10. Khadiijo Abuukar  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed   
    
 ##### Cali Cumar
-    8.  Cumar    Cali     Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    1.  Cumar    Cali     Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 ##### C/llaahi Cumar
     1.  Cumar    C/llaahi Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
@@ -303,7 +303,7 @@
 ##### Cismaan Cumar
 ###### Cumar Cismaan
     1.  Edan         Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
-    2.   Isaaq        Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
+    2.  Isaaq        Cumar   Cismaan  Cumar Wehliye Gaaboow Maxamuud Axmed Maxamed
     
 ###### Abuur Cumar
 ###### Cumar Abuukar
